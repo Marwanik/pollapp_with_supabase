@@ -1,16 +1,8 @@
 # pollapp
 
-A new Flutter project.
+A Poll Flutter project.
 
-## Getting Started
+UI Used for Mobile app : https://www.figma.com/design/MQwe1GLrZ47JBsJGP82FAd/Find-Job-Mobile-App-(Community)?node-id=0-1&t=qPL8WXs3Ebk38RLg-0 ,
+https://www.figma.com/design/Kdkw1zL63gPxQ8UIY5r559/Sankofa-Quiz-App-(Community)?node-id=2007-1203&t=59cY6PfAkMw7EkeV-0
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Used for Web app :  https://www.figma.com/design/Gk9HMBAVaiOelZ50uOiSI6/POLLS.IO-APP-(Community)?node-id=0-1&t=jEmY9WLugNo6nJi7-0
